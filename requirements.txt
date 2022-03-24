@@ -1,2 +1,4 @@
 teamleader==1.1.0
 terminado==0.13.3
+teamleaderApiV1==0.5.1
+dateparser
