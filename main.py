@@ -1,8 +1,6 @@
-import time
-
-from teamleader import Client
 import streamlit as st
 from requests_oauthlib import OAuth2Session
+from teamleader import Client
 
 REDIRECT_URI = "https://localhost:3000/oauth.php"
 TOKEN_SITE = "https://app.teamleader.eu/oauth2/access_token"
